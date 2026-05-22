@@ -1,7 +1,7 @@
 cask "hyperidle" do
-  version "0.0.1"
+  version "0.1.0"
   url "https://github.com/ambrovia/hyperidle-releases/releases/download/v#{version}/HyperIdle-#{version}-arm64.dmg"
-  sha256 "PLACEHOLDER_ARM64_SHA256"
+  sha256 "c9b965d75fcf2b090152b05f34ebd372305988d39aafed8d6a0bbf191c680941"
 
   name "HyperIdle"
   desc "Agentic operating system for AI product teams"
